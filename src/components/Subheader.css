@@ -93,5 +93,6 @@
 
     .title-2 .word-react{
         margin-top: 50px;
+        -webkit-text-stroke: 1px blue;
     }
 }
